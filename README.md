@@ -11,7 +11,7 @@
 1. AI-Based Classification of Student Substance Use Policies Across Texas Independent School Districts  
 Description: Using LLMs to classify Texas ISDs policies of student substance use on a spectrum
 
-    * Goal: Construct a standardized, quantitative index evaluating official policy documentation across 12 geographically & demographically diverse Texas ISDs.
+    * Goal: Construct a standardized, quantitative index evaluating official policy documentation across 12 Texas ISDs.
     * Methods: Web Scraping, Natural Language Processing, LLM Analysis & Evaluation, Statistical Analysis
     * Languages & Tools:
       * Programming & Libraries: Python, Selenium, HuggingFace, torch, nltk, Transformers, Pandas, Numpy, Matplotlib, Seaborn
