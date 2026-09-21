@@ -26,7 +26,7 @@ Description: Implemented Unsupervised ML models to study Quasar Clustering at 3 
     * Methods: Narrative Literature Review, Exploratory Data Analysis, Statistical Analysis, ML, Model Evaluation
     * Languages & Tools: Python, R, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, AstroPy
     * Status: Finished
-    * Repository: https://github.com/AY-Personal-Portfolio/quasar-clustering-research 
+    * Repository: https://github.com/anthonyangg/quasar-clustering-research 
 
 3. Quantitative Cross-Cultural Analysis of Romantic Preferences  
 Description: Utilized ML models to analyze individual's romantic preferences to predict infidelity
@@ -35,12 +35,12 @@ Description: Utilized ML models to analyze individual's romantic preferences to 
     * Methods: Exploratory Data Analysis, Statistical Analysis, ML, Model Evaluation
     * Languages & Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, Statsmodels, SciPy, SHAP
     * Status: Finished
-    * Repository: https://github.com/AY-Personal-Portfolio/romantic-analysis
+    * Repository: https://github.com/anthonyangg/romantic-analysis
   
 ## Additional Projects  
 - [Image & NLP Analysis of Instagram Data](https://github.com/Computational-Media-Lab/brick-lane-instagram-analysis) | TensorFlow, OpenCV, VaderSentiment, BERTopic, Scikit-Image | Status: Finished
 - Analyzing Postsecondary Education Outcomes of Students with ASD in the US | Python, R, Pandas, Scikit-learn | Status: In-Progress
-- [Daily Planner](https://github.com/AY-Personal-Portfolio/daily-planner) | JavaScript, HTML, CSS | Status: Finished | [Website](https://ay-personal-portfolio.github.io/daily-planner/)
+- [Daily Planner](https://github.com/anthonyangg/daily-planner) | JavaScript, HTML, CSS | Status: Finished | [Website](https://ay-personal-portfolio.github.io/daily-planner/)
 
 ## Skills
 - Software Tools: Smartsheet, Slack, Git GitHub, Jupyter, Looker, LaTeX, Microsoft Office (Excel, PowerPoint, Word, Outlook), Google Workbook (Docs, Sheets, Slides), Alteryx, Tableau, PowerBI, Firebase
