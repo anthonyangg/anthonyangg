@@ -28,7 +28,7 @@ Description: Implemented Unsupervised ML models to study Quasar Clustering at 3 
     * Status: Finished
     * Repository: https://github.com/AY-Personal-Portfolio/quasar-clustering-research 
 
-3. Quantitative Cross-Cultural Analysis of Romantic Preferences
+3. Quantitative Cross-Cultural Analysis of Romantic Preferences  
 Description: Utilized ML models to analyze individual's romantic preferences to predict infidelity
 
     * Goal: Develop & implement two ML models to predict whether an individual has cheated on their partner based on specific characteristics
