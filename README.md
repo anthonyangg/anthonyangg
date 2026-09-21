@@ -1,10 +1,8 @@
 # Hi there 👋 I'm Anthony Yang
 
-Career Areas: Data Scientist, ML Engineer, AI Engineer, Operations Researcher, Business Analyst, Financial Analyst
-
 ## About Me
 - 🎯 Specialty: Statistics, Data Science, Machine Learning, AI
-- 🔬 Honors Thesis: Analyzing Postsecondary Education Outcomes of Students with Autism Spectrum Disorder (ASD) in the US
+- 💼 Career Areas: Data Scientist, ML Engineer, AI Engineer, Operations Researcher, Business Analyst, Financial Analyst
 - 📡 Research Interests:
   - Developing trustworthy Statistical ML & Data Science methods
   - Studying AI ethicality & impacts to improve AI systems
@@ -25,7 +23,7 @@ Description: Using LLMs to classify Texas ISDs policies of student substance use
 Description: Implemented Unsupervised ML models to study Quasar Clustering at Redshifts 3 ≤ z ≤ 6
 
     * Goal: Implement Clustering models to determine if there's significant evidence of Quasar clustering at higher redshfits
-    * Methods: Exploratory Data Analysis, Statistical Analysis, ML, Model Evaluation
+    * Methods: Narrative Literature Review, Exploratory Data Analysis, Statistical Analysis, ML, Model Evaluation
     * Languages & Tools: Python, R, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, AstroPy
     * Status: Finished
     * Repository: https://github.com/AY-Personal-Portfolio/quasar-clustering-research 
@@ -37,8 +35,12 @@ Description: Utilized ML models to analyze individual's romantic preferences to 
     * Methods: Exploratory Data Analysis, Statistical Analysis, ML, Model Evaluation
     * Languages & Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, Statsmodels, SciPy, SHAP
     * Status: Finished
-    * Repository: https://github.com/AY-Personal-Portfolio/romantic-analysis 
-
+    * Repository: https://github.com/AY-Personal-Portfolio/romantic-analysis
+  
+## Additional Projects  
+- [Image Analysis & NLP of Instagram Data](https://github.com/Computational-Media-Lab/brick-lane-instagram-analysis) | TensorFlow, OpenCV, VaderSentiment, BERTopic, Scikit-Image | Status: Finished
+- Analyzing Postsecondary Education Outcomes of Students with ASD in the US | Python, R, Pandas, Scikit-learn | Status: In-Progress
+- [Daily Planner](https://github.com/AY-Personal-Portfolio/daily-planner) | JavaScript, HTML, CSS | Status: Finished | [Website](https://ay-personal-portfolio.github.io/daily-planner/)
 
 ## Skills
 - Software Tools: Smartsheet, Slack, Git GitHub, Jupyter, Looker, LaTeX, Microsoft Office (Excel, PowerPoint, Word, Outlook), Google Workbook (Docs, Sheets, Slides), Alteryx, Tableau, PowerBI, Firebase
@@ -49,6 +51,6 @@ Description: Utilized ML models to analyze individual's romantic preferences to 
 - Languages: English (Native), Korean (Native)
 
 ## Education
-**The University of Texas at Austin**   
+**The University of Texas at Austin** 🤘  
 B.S. Statistics and Data Science, B.S.A Mathematics Honors  
 Polymathic Scholars Program
