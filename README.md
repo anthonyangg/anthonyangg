@@ -47,8 +47,6 @@ Description: Utilized ML models to analyze individual's romantic preferences to 
 - Programming Languages: Python, R, SQL, Java, JavaScript, HTML, CSS, Julia, Swift, VBA
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scipy, Statsmodels, Scikit-learn, XGBoost, TensorFlow, PyTorch, Transformers, Scikit-Image, OpenCV, NLTK, BERTopic, Selenium, tidyverse, Shiny, caret, forecast, knitr, rmarkdown, xgboost, purrr, mlr3, randomForest
 - Databases: MySQL, PostgreSQL, MongoDB, Neo4j, dbt, BigQuery, Google Cloud Platform (GCP), Snowflake
-- Soft Skills: Communication, Collaboration, Problem-Solving, Time Managament, Critical Thinking
-- Languages: English (Native), Korean (Native)
 
 ## Education
 **The University of Texas at Austin** 🤘  
