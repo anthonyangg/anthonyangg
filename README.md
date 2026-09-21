@@ -38,7 +38,7 @@ Description: Utilized ML models to analyze individual's romantic preferences to 
     * Repository: https://github.com/AY-Personal-Portfolio/romantic-analysis
   
 ## Additional Projects  
-- [Image Analysis & NLP of Instagram Data](https://github.com/Computational-Media-Lab/brick-lane-instagram-analysis) | TensorFlow, OpenCV, VaderSentiment, BERTopic, Scikit-Image | Status: Finished
+- [Image & NLP Analysis of Instagram Data](https://github.com/Computational-Media-Lab/brick-lane-instagram-analysis) | TensorFlow, OpenCV, VaderSentiment, BERTopic, Scikit-Image | Status: Finished
 - Analyzing Postsecondary Education Outcomes of Students with ASD in the US | Python, R, Pandas, Scikit-learn | Status: In-Progress
 - [Daily Planner](https://github.com/AY-Personal-Portfolio/daily-planner) | JavaScript, HTML, CSS | Status: Finished | [Website](https://ay-personal-portfolio.github.io/daily-planner/)
 
