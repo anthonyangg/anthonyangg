@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Anthony Yang
 
 ## About Me
-- Specialty: Statistics, Data Science, Machine Learning, AI
-- Career Areas: Data Scientist, ML Engineer, AI Engineer, Operations Researcher, Business Analyst, Financial Analyst
-- Research Interests:
+- 🎯 Specialty: Statistics, Data Science, Machine Learning, AI
+- 💼 Career Areas: Data Scientist, ML Engineer, AI Engineer, Operations Researcher, Business Analyst, Financial Analyst
+- 📡 Research Interests:
   - Developing trustworthy Statistical ML & Data Science methods
   - Studying AI ethicality & impacts to improve AI systems
 
