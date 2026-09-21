@@ -20,7 +20,7 @@ Description: Using LLMs to classify Texas ISDs policies of student substance use
     * Repository: https://github.com/Computational-Media-Lab/hs-district-drug-policy-analysis 
 
 2. Quasar Clustering at High Redshifts  
-Description: Implemented Unsupervised ML models to study Quasar Clustering at Redshifts 3 ≤ z ≤ 6
+Description: Implemented Unsupervised ML models to study Quasar Clustering at 3 ≤ z ≤ 6 (z = redshift)
 
     * Goal: Implement Clustering models to determine if there's significant evidence of Quasar clustering at higher redshfits
     * Methods: Narrative Literature Review, Exploratory Data Analysis, Statistical Analysis, ML, Model Evaluation
