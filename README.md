@@ -40,7 +40,7 @@ Description: Utilized ML models to analyze individual's romantic preferences to 
 ## Additional Projects  
 - [Image & NLP Analysis of Instagram Data](https://github.com/Computational-Media-Lab/brick-lane-instagram-analysis) | TensorFlow, OpenCV, VaderSentiment, BERTopic, Scikit-Image | Status: Finished
 - Analyzing Postsecondary Education Outcomes of Students with ASD in the US | Python, R, Pandas, Scikit-learn | Status: In-Progress
-- [Daily Planner](https://github.com/anthonyangg/daily-planner) | JavaScript, HTML, CSS | Status: Finished | [Website](https://ay-personal-portfolio.github.io/daily-planner/)
+- [Daily Planner](https://github.com/anthonyangg/daily-planner) | JavaScript, HTML, CSS | Status: Finished | [Website](https://anthonyangg.github.io/daily-planner/)
 
 ## Skills
 - Software Tools: Smartsheet, Slack, Git GitHub, Jupyter, Looker, LaTeX, Microsoft Office (Excel, PowerPoint, Word, Outlook), Google Workbook (Docs, Sheets, Slides), Alteryx, Tableau, PowerBI, Firebase
