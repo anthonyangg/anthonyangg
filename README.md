@@ -16,7 +16,7 @@ Description: Using LLMs to classify Texas ISDs policies of student substance use
     * Languages & Tools:
       * Programming & Libraries: Python, Selenium, HuggingFace, torch, nltk, Transformers, Pandas, Numpy, Matplotlib, Seaborn
       * LLMs: DeepSeek-V3.2-Exp, Llama-4-Scout-17B-16E-Instruct, Mistral-Large-3-675B-Instruct-2512
-    * Status: In Progress of submitting paper as first author
+    * Status: In Progress of submitting paper as co-first author
     * Repository: https://github.com/Computational-Media-Lab/hs-district-drug-policy-analysis 
 
 2. Quasar Clustering at High Redshifts  
