@@ -25,7 +25,7 @@ Description: Implemented Unsupervised ML models to study Quasar Clustering at 3 
     * Goal: Implement Clustering models to determine if there's significant evidence of Quasar clustering at higher redshfits
     * Methods: Narrative Literature Review, Exploratory Data Analysis, Statistical Analysis, ML, Model Evaluation
     * Languages & Tools: Python, R, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, AstroPy
-    * Status: Finished
+    * Status: Paper published as preprint as first author
     * Repository: https://github.com/anthonyangg/quasar-clustering-research 
 
 3. Quantitative Cross-Cultural Analysis of Romantic Preferences  
